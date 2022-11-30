@@ -4,4 +4,4 @@ Accurate segmentation of mandibular canals in lower jaws is important in dental 
 
 [Research paper submitted to a journal (under review)](https://arxiv.org/abs/2210.03739) 
 
-![Network Architecture](.fig/model.png)
+![Network Architecture](./fig/model.png)
