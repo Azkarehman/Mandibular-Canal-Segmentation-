@@ -10,4 +10,4 @@ Accurate segmentation of mandibular canals in lower jaws is important in dental 
 # Dataset
 In this work, we utilized two datasets, one dataset which we developed in this study 179
 and the other publicly available dataset released by [Cipriano et al](https://ieeexplore.ieee.org/document/9686728).
-For more details, please refer to research paper updated version mentioned above.
+For more details, please refer to research paper updated version mentioned in above attached link.
